@@ -6,4 +6,5 @@ r, annual rate of interest
 Simple interest= p*t*r
 
 
+
 © 2021 XYZ, Inc.
